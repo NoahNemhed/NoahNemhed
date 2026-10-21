@@ -4,12 +4,12 @@ Solo developer based in Malmö, Sweden. I design and build products across mobil
 
 ## BITE
 
-I have spent the past 8–9 months building **BITE**, a fitness product that brings workout planning, logging, nutrition, progress and coaching together. I built the mobile app, Apple Watch companion, backend, internal admin console and marketing site as one connected product.
+For the past 8–9 months I have been building **BITE**, a connected fitness product. I designed and developed its mobile app, Apple Watch companion, backend, internal admin console and marketing site.
 
-[![BITE product preview](assets/bite-cover.png)](https://www.bitefitness.app/)
+[![BITE features page with two iPhones and an Apple Watch](assets/features-page.png)](https://www.bitefitness.app/features)
 
-**[Explore the product](https://www.bitefitness.app/)** · **[View the App Store listing](https://apps.apple.com/app/id6770621331)** · **[Read the project case study](https://github.com/NoahNemhed/bite-case-study)**
+<p><a href="https://www.bitefitness.app/"><img src="assets/button-website.svg" alt="Explore the website" height="50"></a> <a href="https://apps.apple.com/app/id6770621331"><img src="assets/button-app-store.svg" alt="View on the App Store" height="50"></a> <a href="https://github.com/NoahNemhed/bite-case-study"><img src="assets/button-case-study.svg" alt="Read the case study" height="50"></a></p>
 
-The case study shows product screens, interactive marketing demos, the admin console, the high-level architecture and a conceptual data model. The application source remains private.
+The [case study](https://github.com/NoahNemhed/bite-case-study) shows product screens, interactive marketing demos, the admin console, high-level architecture and a conceptual data model. The application source remains private.
 
 **What I work with:** React Native, Expo, TypeScript, Java, Spring Boot, PostgreSQL and Next.js.
