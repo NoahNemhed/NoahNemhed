@@ -1,10 +1,6 @@
-# Noah Nemhed Uppgren
-
-Solo developer based in Malmö, Sweden. I design and build products across mobile, backend and web.
-
 ## BITE
 
-I have spent the past 8–9 months building **BITE**, a fitness product that brings workout planning, logging, nutrition, progress and coaching together. I built the mobile app, Apple Watch companion, backend, internal admin console and marketing site as one connected product.
+I have spent the past 9 months building **BITE**, a fitness app that brings workout planning, logging, nutrition, progress and coaching together. I built the mobile app, Apple Watch companion, backend, internal admin console and marketing site as one connected product.
 
 [![BITE product preview](assets/bite-cover.png)](https://www.bitefitness.app/)
 
